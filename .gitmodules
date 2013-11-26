@@ -1,0 +1,3 @@
+[submodule "TestPlugin"]
+	path = TestPlugin
+	url = https://github.com/arambi/TestPlugin.git
